@@ -6,5 +6,5 @@
 #运行样子
 ![alt text](https://github.com/hqc1622695679/lineIndicator/blob/master/file/1.png "文图")
 
-#excample
+#example
  [demo](https://github.com/hqc1622695679/lineIndicator/blob/master/file/example.apk)
